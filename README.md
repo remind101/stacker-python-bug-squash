@@ -19,6 +19,7 @@ pip install virtualenv
 
 Now instantiate a virtualenv and activate it:
 
+```
 virtualenv psq-bug-squash
 . ./psq-bug-squash/bin/activate
 ```
